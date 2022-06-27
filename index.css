@@ -1,0 +1,17 @@
+.grid{
+    display:flex;
+    flex-wrap:wrap ;
+    justify-content:space-around
+}
+body{
+    background-color: aqua;
+}
+img:hover{
+    transform:translate(3%, 3%)
+}
+a:visited{
+    color:blueviolet
+}
+a:link{
+    color:blue
+}
